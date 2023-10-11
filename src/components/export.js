@@ -1,7 +1,7 @@
 import Navbar from "./Navbar";
 import Main from "./Main";
 import WhyUs from "./WhyUs";
-import Services from "./services";
+import Services1 from "./Services1";
 import Leadmagnet from "./Leadmagnet";
 import Feedback from "./Feedback";
 import Portfolio from "./Portfolio";
@@ -15,7 +15,7 @@ export {
     Navbar,
     Main,
     WhyUs,
-    Services,
+    Services1,
     Leadmagnet,
     Feedback,
     Portfolio,

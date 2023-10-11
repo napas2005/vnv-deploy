@@ -9,7 +9,7 @@ import {
 
 import ButtonWant from "./ButtonWant";
 
-const Services = () => {
+const Services1 = () => {
   const data = [
     {
       label: "РОЗРОБКА",
@@ -73,4 +73,4 @@ const Services = () => {
   );
 };
 
-export default Services;
+export default Services1;

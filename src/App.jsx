@@ -3,14 +3,14 @@ import {
   Navbar,
   Main,
   WhyUs,
-  Services,
   Leadmagnet,
   Feedback,
   Portfolio,
   FAQ,
   SocialLinks,
   Reviews,
-  Slider1
+  Slider1,
+  Services1
 } from "./components/export";
 import { Slider } from "@material-tailwind/react";
 
@@ -37,7 +37,7 @@ const App = () => {
 
       <div className="bg-primary flex justify-center items-start my-12">
         <div className="xl:max-w-[1280px] w-full flex justify-center">
-          <Services />
+          <Services1 />
         </div>
       </div>
 
